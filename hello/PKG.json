@@ -1,0 +1,7 @@
+{
+  "name": "hello",
+  "version": "1.0",
+  "arch": "ucunix",
+  "filename": "hello-v1.0.tar.gz",
+  "install_path": "/bin"
+}
