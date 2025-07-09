@@ -1,7 +1,0 @@
-{
-  "name": "curl",
-  "version": "1.0",
-  "arch": "ucunix",
-  "filename": "curl.tar.gz",
-  "install_path": "/bin"
-}
