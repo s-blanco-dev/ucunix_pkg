@@ -1,0 +1,7 @@
+{
+  "name": "micro",
+  "version": "2.0.14",
+  "arch": "ucunix",
+  "filename": "micro-2.0.14.tar.gz",
+  "install_path": "/bin"
+}
