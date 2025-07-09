@@ -1,0 +1,7 @@
+{
+  "name": "ucufetch",
+  "version": "0.3",
+  "arch": "ucunix",
+  "filename": "ucufetch.tar.gz",
+  "install_path": "/bin"
+}
