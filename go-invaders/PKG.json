@@ -1,0 +1,7 @@
+{
+  "name": "go-invaders",
+  "version": "1.2.3",
+  "arch": "ucunix",
+  "filename": "go-invaders-1.2.3.tar.gz",
+  "install_path": "/bin"
+}
