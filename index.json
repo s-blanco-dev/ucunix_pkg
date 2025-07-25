@@ -26,5 +26,12 @@
   "arch": "ucunix",
   "filename": "go-invaders-1.2.3.tar.gz",
   "install_path": "/bin"
+  },
+  {
+  "name": "elinks",
+  "version": "0.18.0",
+  "arch": "ucunix",
+  "filename": "elinks0.18.0.tar.gz",
+  "install_path": "/bin"
   }
 ]
